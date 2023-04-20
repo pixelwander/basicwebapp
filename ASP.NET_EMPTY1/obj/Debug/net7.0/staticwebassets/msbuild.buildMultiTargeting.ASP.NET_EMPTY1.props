@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/ASP.NET_EMPTY1.props" />
+</Project>

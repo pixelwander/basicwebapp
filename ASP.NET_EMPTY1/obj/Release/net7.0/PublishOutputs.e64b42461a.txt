@@ -1,0 +1,7 @@
+/Users/coleniswander/Projects/ASP.NET_EMPTY1/ASP.NET_EMPTY1/obj/Release/net7.0/PubTmp/Out/ASP.NET_EMPTY1
+/Users/coleniswander/Projects/ASP.NET_EMPTY1/ASP.NET_EMPTY1/obj/Release/net7.0/PubTmp/Out/appsettings.Development.json
+/Users/coleniswander/Projects/ASP.NET_EMPTY1/ASP.NET_EMPTY1/obj/Release/net7.0/PubTmp/Out/appsettings.json
+/Users/coleniswander/Projects/ASP.NET_EMPTY1/ASP.NET_EMPTY1/obj/Release/net7.0/PubTmp/Out/ASP.NET_EMPTY1.dll
+/Users/coleniswander/Projects/ASP.NET_EMPTY1/ASP.NET_EMPTY1/obj/Release/net7.0/PubTmp/Out/ASP.NET_EMPTY1.deps.json
+/Users/coleniswander/Projects/ASP.NET_EMPTY1/ASP.NET_EMPTY1/obj/Release/net7.0/PubTmp/Out/ASP.NET_EMPTY1.runtimeconfig.json
+/Users/coleniswander/Projects/ASP.NET_EMPTY1/ASP.NET_EMPTY1/obj/Release/net7.0/PubTmp/Out/ASP.NET_EMPTY1.pdb
